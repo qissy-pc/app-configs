@@ -1,4 +1,9 @@
 {
-  "minVersionCode": 0,
-  "warnBelowVersionCode": 0
+  "banner": {
+    "show": false, 
+    "title": "MC Book به‌روز شد",
+    "text": "نسخه‌ی تازه با پیام‌های درون‌برنامه‌ای و بهبود ابزارها منتشر شد.",
+    "image": "https://raw.githubusercontent.com/qissy-pc/app-configs/main/images/mcbook-update.png",
+    "link": "myket://details?id=com.devqissy.mcbook"
+  }
 }
