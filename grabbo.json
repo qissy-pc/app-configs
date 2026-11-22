@@ -1,9 +1,9 @@
 {
   "banner": {
     "show": false, 
-    "title": "MC Book به‌روز شد",
-    "text": "نسخه‌ی تازه با پیام‌های درون‌برنامه‌ای و بهبود ابزارها منتشر شد.",
-    "image": "https://raw.githubusercontent.com/qissy-pc/app-configs/main/images/mcbook-update.png",
-    "link": "myket://details?id=com.devqissy.mcbook"
+    "title": "Grabbo به‌روز شد",
+    "text": "هم اکنون میتوانید بدون پرداخت هزینه روزانه تا سقف 5 توکن رایگان و با تماشای هر تبلیغ 3 توکن دریافت کنید. ",
+    "image": "https://raw.githubusercontent.com/qissy-pc/app-configs/main/images/grabbo-ads.png",
+    "link": ""
   }
 }
