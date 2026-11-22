@@ -1,6 +1,6 @@
 {
   "banner": {
-    "show": false, 
+    "show": true, 
     "title": "Grabbo به‌روز شد",
     "text": "هم اکنون میتوانید بدون پرداخت هزینه روزانه تا سقف 5 توکن رایگان و با تماشای هر تبلیغ 3 توکن دریافت کنید. ",
     "image": "https://raw.githubusercontent.com/qissy-pc/app-configs/main/images/grabbo-ads.png",
