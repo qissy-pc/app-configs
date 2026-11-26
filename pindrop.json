@@ -1,1 +1,9 @@
-
+{
+  "banner": {
+    "show": false,
+    "title": "یک جهش کامل!",
+    "text": "از همراهی شما با Pin Drop سپاسگزاریم 💙\nاین اپلیکیشن از ۱۰ آذر ۱۴۰۵ به‌روزرسانی رسمی دریافت نخواهد کرد. برای ادامه‌ی خدمات، پیشنهاد می‌کنیم از امروز به Grabbo، دانلودر جامع و همه‌کاره، مهاجرت کنید.",
+    "image": "https://raw.githubusercontent.com/qissy-pc/app-configs/main/images/grabbo-in-pindrop.png",
+    "link": ""
+  }
+}
